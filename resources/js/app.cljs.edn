@@ -1,0 +1,4 @@
+{:require  [speccards.app]
+ :init-fns [speccards.app/init]
+ :compiler-options {:asset-path "js/app.out"
+                    :devcards true}}
